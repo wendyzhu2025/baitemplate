@@ -4,3 +4,12 @@ img{
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+body {
+    background-color: #CFE6B5;
+    max-width: 500px;
+    margin: auto;
+}
+h1 {
+    font-size: 50px;
+}
